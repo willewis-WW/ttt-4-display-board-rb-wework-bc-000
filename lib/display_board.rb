@@ -3,3 +3,7 @@
 def display_board(board)
   
 end
+
+board_status = [' ', ]
+
+display_board(board_status)
